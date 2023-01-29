@@ -1,0 +1,10 @@
+07. Max Sequence of Equal Elements -> https://pastebin.com/fiudHYva
+видео: https://youtu.be/Po6e3xLR_k8
+
+05. Top Integers -> https://pastebin.com/31nu1L63
+видео: https://youtu.be/NCgPXDs0J50?t=8153
+
+09. Array Modifier -> https://pastebin.com/uiRqkbkP
+видео: https://softuni.bg/trainings/resources/video/75973/video-30-september-2022-desislava-topuzakova-programming-fundamentals-with-java-september-2022/3837
+
+10. Lady Bugs: https://youtu.be/gH7P3RXPTXQ
